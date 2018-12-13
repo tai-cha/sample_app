@@ -22,7 +22,7 @@
 
 .byebug_history
 
-/.idea/*
+.idea/*
 
 # Ignore Spring files.
 /spring/*.pid
