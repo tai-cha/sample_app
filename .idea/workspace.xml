@@ -146,6 +146,7 @@
         <option value="CSS File" />
         <option value="Ruby Class Template" />
         <option value="Erb File" />
+        <option value="Ruby Class Template" />
       </list>
     </option>
   </component>
