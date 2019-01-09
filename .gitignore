@@ -26,5 +26,8 @@
 .idea/*
 .idea/
 
+# アップロードされたテスト画像を無視する
+/public/uploads
+
 # Ignore Spring files.
 /spring/*.pid
